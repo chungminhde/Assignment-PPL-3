@@ -1,0 +1,15 @@
+
+        int foo(int n)
+        {
+            n = n + 10;
+            int k;
+            for(k;k<n;k=k+1)
+            {
+                break;
+            }
+        }
+        void main(){
+           foo(5);
+           return;
+        }
+        

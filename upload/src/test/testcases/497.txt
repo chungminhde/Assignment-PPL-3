@@ -1,0 +1,16 @@
+
+        float a;
+        boolean check;
+        void main(){
+           int k;
+           if (check)
+           {
+               c= a;
+               return;
+           }
+           else
+           {
+               check = true;
+           }
+        }
+        

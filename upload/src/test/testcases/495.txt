@@ -1,0 +1,15 @@
+
+        int foo(int n)
+        {
+            int a;
+            a=getInt();
+            if (n<a)
+            {
+                n = n + 10;
+            }
+            else
+            {
+                return n;
+            }
+        }
+        

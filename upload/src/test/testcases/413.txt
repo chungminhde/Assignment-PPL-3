@@ -1,0 +1,7 @@
+
+        
+            void main(){
+                        foo(5);
+                        return;
+            }
+        

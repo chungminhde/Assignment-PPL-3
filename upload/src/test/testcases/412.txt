@@ -1,0 +1,11 @@
+
+        int a;
+        int b;
+        void main(){
+            a=b;
+        }
+        int foo(float n)
+        {
+            n= a+b/c;
+        }
+        

@@ -1,0 +1,7 @@
+
+        int a;
+        void main(){
+           a(100);
+           return;
+        }
+        

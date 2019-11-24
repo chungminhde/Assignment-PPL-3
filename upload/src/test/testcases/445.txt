@@ -1,0 +1,9 @@
+
+        int k;
+        float m;
+
+        void main(){
+           m % 10 = k;
+           return 0;
+        }
+        

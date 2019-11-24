@@ -1,0 +1,12 @@
+
+            int n;
+            int k;
+            int foo()
+            {
+                
+            }
+            void main(){
+                foo();
+                return;
+            }
+        

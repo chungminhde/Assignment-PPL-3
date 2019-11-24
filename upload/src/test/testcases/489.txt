@@ -1,0 +1,17 @@
+
+        void main(){
+           int x;
+           x = 1; 
+           do
+           {
+               if (x<10)
+               {
+                   x = true;
+                   break;
+               }
+               continue;
+           }
+           while(true);
+           
+        }
+        

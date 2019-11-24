@@ -1,0 +1,12 @@
+
+            float foo()
+            {
+                int k;
+                k = k +1;
+                return k;
+            }
+            void main()
+            {
+                return;
+            }
+        

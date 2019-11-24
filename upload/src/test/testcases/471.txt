@@ -1,0 +1,8 @@
+
+        void main(){
+           string str;
+           int arr[100];
+           arr[str] = arr[99];
+           return;
+        }
+        

@@ -1,0 +1,15 @@
+
+        int a;
+        void main(){
+           a= 10.1;
+           for (1;true;100)
+           {
+               break;
+           }
+           do
+           {
+               continue;
+           }
+           while(true);
+        }
+        

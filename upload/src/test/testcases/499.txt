@@ -1,0 +1,24 @@
+
+        int foo(int k)
+        {
+            k = k /10;
+            return k;
+        }
+        void main(){
+            int a;
+           if (a<5)
+           {
+               break;
+               foo(100);
+           }
+           else
+           {
+               foo(10);
+           }
+           do
+           {
+               continue;
+           }
+           while(true);
+        }
+        

@@ -1,0 +1,6 @@
+
+        void main(){
+           float x;
+           x = true;
+        }
+        

@@ -1,0 +1,13 @@
+
+        int checkPrime()
+        {
+            return 0;
+        }
+        float foo()
+        {
+            continue;
+        }
+        void main(){
+            return 0;
+        }
+        

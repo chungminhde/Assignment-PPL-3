@@ -1,0 +1,10 @@
+
+        void main(){
+            float k;
+            if (k)
+            {
+                k = 0.0;
+            }
+           
+        }
+        

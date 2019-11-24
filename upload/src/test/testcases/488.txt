@@ -1,0 +1,14 @@
+
+        int foo(int x)
+        {
+            int i;
+            for (i=0.0;i<10;i=i+1)
+            {
+                x = x + i;
+            }
+        }
+        void main(){
+           foo(10);
+           return;
+        }
+        

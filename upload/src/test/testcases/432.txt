@@ -1,0 +1,9 @@
+
+        int foo()
+        {
+            break;
+        }
+        void main(){
+            return 0;
+        }
+        

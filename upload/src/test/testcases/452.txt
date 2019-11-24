@@ -1,0 +1,9 @@
+
+        void main(){
+           string str;
+           if(str)
+           {
+               str = "ABCD";
+           }
+        }
+        

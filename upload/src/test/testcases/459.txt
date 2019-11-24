@@ -1,0 +1,10 @@
+
+        void main(){
+           do
+           {
+               float n;
+               continue;
+           }
+           while("ABCD");
+        }
+        

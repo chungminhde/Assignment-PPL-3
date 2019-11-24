@@ -1,0 +1,10 @@
+
+        void main(){
+           do
+           {
+               int a;
+               return 100;
+           }
+           while(5.5);
+        }
+        

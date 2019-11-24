@@ -1,0 +1,11 @@
+
+        
+            void main(){
+                        foo();
+                        return;
+            }
+            int foo_5()
+            {
+                return 0;
+            }
+        

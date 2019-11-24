@@ -1,0 +1,10 @@
+
+        int a;
+        int b;
+        void main(){
+            a = b + 5;
+            c = 5;
+            string f;
+            f = a/b;
+        }
+        

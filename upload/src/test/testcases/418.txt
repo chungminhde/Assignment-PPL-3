@@ -1,0 +1,12 @@
+
+            int a;
+            boolean check;
+            void main(){
+                b = check;
+                return 0;
+            }
+            int foo_5()
+            {
+                return 0;
+            }
+        

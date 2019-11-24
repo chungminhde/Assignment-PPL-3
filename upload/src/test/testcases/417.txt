@@ -1,0 +1,17 @@
+
+            int a;
+            float b;
+            boolean check()
+            {
+                c = a+ b;
+                return True;
+                
+            }
+            int main()
+            {
+                a= a+ b;
+                int c;
+                c = a/b;
+                return 0;
+            }
+        

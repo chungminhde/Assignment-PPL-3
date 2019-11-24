@@ -1,0 +1,9 @@
+
+        string checkString(string str)
+           {
+               return false;
+           }
+        void main(){
+           checkString("ABCD");
+        }
+        

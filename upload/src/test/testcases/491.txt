@@ -1,0 +1,25 @@
+
+        int foo(int a,float b, int c, string d)
+        {
+            if (a<b)
+            {
+                return 1;
+            }
+            else
+            {
+                return 0;
+            }
+            do
+            {
+                c = c-1;
+            }
+            while(a<c);
+        }
+        void main(){
+           int a;
+           float b;
+           string c;
+           boolean d;
+           foo(a,b,c,d);
+        }
+        

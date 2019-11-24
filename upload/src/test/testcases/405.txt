@@ -1,0 +1,12 @@
+
+        int a;
+        int foo(int b,float c)
+        {
+            string c;
+        }
+        void main()
+        {
+            return 1;
+        }
+        
+        

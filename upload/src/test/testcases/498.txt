@@ -1,0 +1,13 @@
+
+        void check(string str)
+        {
+            if (true)
+            {
+                return str;
+            }
+        }
+        void main(){
+           check("100");
+           return 1;
+        }
+        

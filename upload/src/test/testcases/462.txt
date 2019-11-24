@@ -1,0 +1,8 @@
+
+        void foo(){
+            return 100;
+        }
+        void main(){
+           return;
+        }
+        

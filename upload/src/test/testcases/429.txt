@@ -1,0 +1,17 @@
+
+            
+            int test(int n)
+            {
+                return 1;
+            }
+            void foo(int k)
+            {
+                return;
+            }
+            void main()
+            {
+                test(10);
+                return;
+            }
+            
+        

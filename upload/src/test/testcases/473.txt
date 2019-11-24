@@ -1,0 +1,6 @@
+
+        void main(){
+           int arr[100];
+           arr[1.0] = 5;
+        }
+        

@@ -1,0 +1,10 @@
+
+        int foo()
+        {
+            return 100;
+        }
+        void main(){
+           int arr[10];
+           arr[0] + foo() - 5 = 10;
+        }
+        

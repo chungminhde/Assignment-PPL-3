@@ -1,0 +1,17 @@
+
+            
+            int foo(int n)
+            {
+                return 1;
+            }
+            boolean foo_2()
+            {
+                return false;
+            }
+            void main()
+            {
+                foo(5);
+                return;
+            }
+            
+        

@@ -1,0 +1,9 @@
+
+        float foo(int n)
+        {
+            return true;
+        }
+        void main(){
+           return;
+        }
+        

@@ -1,0 +1,8 @@
+
+        float c;
+        void main(){
+           int c; 
+           c = 10;
+           string c;
+        }
+        

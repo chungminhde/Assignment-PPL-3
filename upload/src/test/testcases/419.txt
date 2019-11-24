@@ -1,0 +1,13 @@
+
+        
+        boolean foo(int n)
+        {
+            return true;
+        }
+        int main()
+        {
+            foo(10);
+            foo_1(10);
+            return 0;
+        }
+        

@@ -1,0 +1,9 @@
+
+        void foo()
+        {
+            return "ABCD";
+        }
+        void main(){
+           foo();
+        }
+        

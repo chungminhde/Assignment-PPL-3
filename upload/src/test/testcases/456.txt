@@ -1,0 +1,9 @@
+
+        void main(){
+           string str;
+           for(str;5<10;100)
+           {
+               return;
+           }
+        }
+        

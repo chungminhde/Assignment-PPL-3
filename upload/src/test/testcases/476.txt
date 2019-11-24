@@ -1,0 +1,8 @@
+
+        void main(){
+           string str;
+           int a;
+           str < a;
+           return 10;
+        }
+        

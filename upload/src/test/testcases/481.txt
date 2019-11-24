@@ -1,0 +1,11 @@
+
+        int foo(int a, int b)
+        {
+            int c;
+            c = (a + b) /2;
+            return c;
+        }
+        void main(){
+           foo(5);
+        }
+        

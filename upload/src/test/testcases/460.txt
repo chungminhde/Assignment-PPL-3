@@ -1,0 +1,12 @@
+
+        void main(){
+           
+           do{
+               if(true)
+               {
+                   break;
+               }
+           }
+           while(1);
+        }
+        
